@@ -1,0 +1,13 @@
+#ifndef _CONSTANTES_H
+#define _CONSTANTES_H
+
+
+#define SALARIO_BASE_PROF 1500
+#define BONUS_TITUL_MEST 500
+#define BONUS_TITUL_DOUT 1000
+
+#define SALARIO_FIXO_ADM 1500
+
+
+
+#endif

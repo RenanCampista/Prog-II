@@ -1,0 +1,32 @@
+#ifndef _CONSTANTES_H
+#define _CONSTANTES_H
+
+
+#define TAM_CARTAO_SUS 19
+#define TAM_DATA 11
+#define TAM_TELEFONE 15
+
+#define DIA_ATUAL 11
+#define MES_ATUAL 5
+#define ANO_ATUAL 2023
+
+#define VERDADEIRO 1
+#define FALSO -1
+
+#define GENERO_FEMININO 0
+#define GENERO_MASCULINO 1
+#define GENERO_OUTROS 2
+
+#define NUM_DIAGNOSTICOS_POSSIVEIS 6
+#define POS_ID_DIAGNOSTICO 0
+#define CARC_BASOCELULAR 0
+#define CARC_ESPINOCELULAR 1
+#define CER_ACTINICA 2
+#define CER_SEBORREICA 3
+#define MELANOMA 4
+#define NEVO 5
+
+#define ID_INICIAL 1
+
+
+#endif
